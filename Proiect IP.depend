@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1705475733 source:d:\projects\c++\codeblocks\proiect ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstring>
+	<winbgim.h>
+	<vector>
+	"bloc.h"
+	"window.h"
+	"generate.h"
+	"run.h"
+	"menu.h"
+
+1705425550 d:\projects\c++\codeblocks\proiect ip\bloc.h
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1705511133 d:\projects\c++\codeblocks\proiect ip\window.h
+	<fstream>
+	<vector>
+	<cstring>
+	<cmath>
+	"smartlink.h"
+	"bloc.h"
+	"save.h"
+
+1705475932 d:\projects\c++\codeblocks\proiect ip\run.h
+	"window.h"
+	"bloc.h"
+	<cmath>
+	<limits>
+	<vector>
+	<iostream>
+	<cstring>
+
+1705473387 d:\projects\c++\codeblocks\proiect ip\generate.h
+	<stdio.h>
+	<winbgim.h>
+	"bloc.h"
+
+1705502813 d:\projects\c++\codeblocks\proiect ip\smartlink.h
+	<iostream>
+	<vector>
+	<set>
+	<winbgim.h>
+	<graphics.h>
+	<algorithm>
+	"bloc.h"
+
+1705475780 d:\projects\c++\codeblocks\proiect ip\menu.h
+	<iostream>
+	<graphics.h>
+	<cstring>
+	<winbgim.h>
+	<vector>
+	<fstream>
+	"bloc.h"
+	"window.h"
+	"generate.h"
+	"run.h"
+	"save.h"
+
+1705412128 d:\projects\c++\codeblocks\proiect ip\save.h
+	<vector>
+	<fstream>
+	<cstring>
+	"bloc.h"
+
